@@ -15,6 +15,7 @@ DAX (Data Analysis Expressions) – KPI calculations & measures
 Excel / CSV – Data storage (assumed source format)
 
 4. 📂 Data Source
+   
 Retail / Superstore-style dataset (Sales transactions)
 Includes fields like:
 Order Date
@@ -27,6 +28,7 @@ Shipping Mode
 Delivery Days
 
 5. 🚀 Features / Highlights
+   
 📊 Business KPIs
 Total Sales: $5.93M+
 Total Profit: $747K+
@@ -50,6 +52,7 @@ Sales vs Profit tracking
 Delivery & return metrics for operational efficiency
 
 6. 📸 Screenshots / Demos
+   
 Show what the Dashboard look like. - 
 Example: ![Dashboard Preview](https://github.com/kalpeh10-blip/Sales_Dashboard/blob/main/Snapshot%20of%20Sales%20Dashboard%20.png)
 
