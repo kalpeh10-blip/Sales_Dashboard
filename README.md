@@ -50,7 +50,8 @@ Sales vs Profit tracking
 Delivery & return metrics for operational efficiency
 
 6. 📸 Screenshots / Demos
-   ![Dashboard Preview].(https://github.com/kalpeh10-blip/Sales_Dashboard/blob/main/Snapshot%20of%20Sales%20Dashboard%20.png)
+Show what the Dashboard look like. - ![Alt text](http://github.com/username/repo/assets/image.png)
+Example: ![Dashboard Preview](https://github.com/kalpeh10-blip/Sales_Dashboard/blob/main/Snapshot%20of%20Sales%20Dashboard%20.png)
 
 
 
