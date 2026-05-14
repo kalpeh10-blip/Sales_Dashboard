@@ -51,7 +51,45 @@ Tracks logistics performance
 Sales vs Profit tracking
 Delivery & return metrics for operational efficiency
 
-6. 📸 Screenshots / Demos
+6. Insights
+
+Sales & Profit Insights
+
+Some products may be generating high sales but low profit, which indicates discounting issues or higher operational costs.
+Products with high profit margins but low sales volume should be promoted more aggressively through marketing or bundles.
+Compare Sales vs Profit together, not sales alone, because high revenue does not always mean healthy business growth.
+
+Customer Insights
+
+Identify top customers contributing maximum revenue and create retention strategies for them.
+Customers with repeated low-value orders can be targeted using upselling or cross-selling campaigns.
+Analyze customer-wise profitability because some customers may generate revenue but reduce margins due to heavy discounts.
+
+Quantity & Demand Insights
+
+Products with consistently high quantity sales indicate strong market demand and should have better inventory planning.
+Low-selling products can be reviewed for discontinuation or pricing correction.
+
+Operational & Strategic Insights
+
+Use monthly trend analysis to identify:
+Peak sales periods
+Slow business months
+Seasonal demand patterns
+Focus more on high-performing product categories and reduce dependency on low-margin products.
+
+Recommended Actions
+
+Reduce unnecessary discounts on low-profit products.
+Increase focus on profitable customer segments.
+Optimize inventory based on fast-moving products.
+Build Power BI alerts/KPI cards for:
+Declining profit margin
+Sales drop
+Customer churn trends
+   
+
+8. 📸 Screenshots / Demos
    
 Show what the Dashboard look like. - 
 Example: ![Dashboard Preview](https://github.com/kalpeh10-blip/Sales_Dashboard/blob/main/Snapshot%20of%20Sales%20Dashboard%20.png)
